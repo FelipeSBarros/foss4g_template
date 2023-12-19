@@ -193,8 +193,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Venue"
-  name = "Getting to Tartu"
-  url = "getting-to-tartu/"
+  name = "Getting to Belém"
+  url = "getting-to-belem/"
 
   [[menu.main]]
   parent = "Venue"
@@ -203,8 +203,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Venue"
-  name = "About Tartu"
-  url = "about-tartu/"
+  name = "About Belém"
+  url = "about-belem/"
 
 #  [[menu.main]]
 #  parent = "Pages"
