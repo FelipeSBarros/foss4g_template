@@ -280,27 +280,27 @@ enable = true
 expire_days = 2
 
 ############################# social site ########################
-# [[params.social]]
-# title = "facebook"
-# icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-# link = "#"
+[[params.social]]
+title = "facebook"
+icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.facebook.com/foss4g2024"
 
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/foss4ge"
+link = "https://twitter.com/foss4g"
 
 [[params.social]]
 title = "mastodon"
 icon = "fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://fosstodon.org/@foss4geurope"
+link = "https://fosstodon.org/@foss4g"
 
-[[params.social]]
-title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
+# [[params.social]]
+# title = "github"
+# icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+# link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
 
 [[params.social]]
 title = "linkedin"
 icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://www.linkedin.com/company/foss4g-europe"
+link = "https://www.linkedin.com/company/foss4g2024"
