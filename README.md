@@ -1,4 +1,4 @@
-# 2024 FOSS4G Europe Tartu event web page preps
+# 2024 FOSS4G Belém event web page
 
 The web site is made with Hugo. The template is copyrighted and was purchased from [Gethugothemes](https://gethugothemes.com/).
 
