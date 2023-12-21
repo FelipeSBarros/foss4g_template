@@ -9,7 +9,7 @@ layout : "faq"
 
 
 {{< faq "When and where will the conference take place?" >}}
-The conference will take place from 1 July - 7 July 2024 in Tartu, Estonia.  
+The conference will take place from 2 December - 8 December 2024 in Tartu, Estonia.  
 {{</ faq >}}
 
 {{< faq "If the conference is in Estonia, does it mean my presentation/workshop needs to be in Estonian?" >}}

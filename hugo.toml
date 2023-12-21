@@ -234,7 +234,7 @@ logo = "images/logo.png"
 logo_footer = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "The FOSS4G 2024 conference is taking place 1-7 July in the beautiful city of Belém, Brasil."
+description = "The FOSS4G 2024 conference is taking place 2-8 December in the beautiful city of Belém, Brasil."
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io

@@ -20,7 +20,7 @@ layout: "single"
 | Community voting period: | **12 February 2024 - 25 February 2024** |
 | Announce accepted talks: | **3 March 2024** |
 | Full program: | **31 March 2024** |
-| Conference: | **3 July - 5 July 2024** |
+| Conference: | **2 December - 8 December 2024** |
 
 <center>
     <a href="https://talks.osgeo.org/foss4g-europe-2024/cfp"

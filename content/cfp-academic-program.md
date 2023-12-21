@@ -18,7 +18,7 @@ layout: "single"
 | Announce accepted talks | **3 March 2024** |
 | Full program | **31 March 2024** |
 | Submission of full academic papers | **3 May 2024** |
-| Conference: | **3 July - 5 July 2024** |
+| Conference: | **2 December - 8 December 2024** |
 
 <center>
     <a href="https://talks.osgeo.org/foss4g-europe-2024-academic-track/cfp"
