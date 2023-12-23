@@ -7,54 +7,55 @@ draft: false
 layout: "single"
 ---
 
-### Transport to Tartu
+### Transport to Belém
 
 ---
 
 **Air**
 
-Tartu has an airport very close by (ca 10 km away in Ülenurme) but at the moment the commercial connections have not been restored since the pandemic. Currently a tender is being prepared that would ensure a daily connection to an important European airport (e.g. Riga/Latvia or Helsinki/Finland). We will publish news when changes have been confirmed.
-
-The closest airports are:
-
-1. **Riga (Latvia)**. Requires a bus/train connection to Tartu (approx. 5 hours).
-2. **Tallinn (Estonia)**. Requires a bus/train connection to Tartu (approx. 2.5/2 hours).Half-hourly buses have direct connections from Tallinn airport to Tartu bus station.
-3. **Helsinki (Finland)**. Requires a boat trip across the Gulf of Finland (~3.5h) to Tallinn and from there a bus/train to Tartu.
+Val de Cães International Airport is a medium-sized airport in Brazil. It is an international airport. In total there are 28 airports around the world that have direct flights to Belém, spread over 21 cities in 4 countries. Currently, there are 24 domestic flights to Belém.
+Telephone contact: +55 (91) 3210-6000
 
 ---
 
-**Train**
+**Boat**
 
-1. **From Tallinn**  
-   Trains from Tallinn are less frequent (ca 12 trips per day) than buses. But “Ekspress”-labeled trains run a tiny bit faster with a total trip time ranging from 2h - 2.5h. The closest train station (Ülemiste) from the airport is a 1 km walk away.
-
-- Tickets (for a particular day and time) can be searched and bought via **{{< extlink href="https://elron.ee" title="Elron" >}}** website.
-- E.g. for trips from Ülemiste station to Tartu: **{{< extlink href="https://elron.pilet.ee/en/otsing/%C3%9Clemiste/Tartu" title="LINK" >}}**
-
-1st class tickets will reserve you a seat. Standard class tickets are assigned on a first-come-first-serve basis. Standard tickets can also be bought on the train from the wagon attendant (cash or debit/credit card).
-
-2. **From Riga**
-   Currently, there is no direct train connection between Riga and Tartu, two different tickets will need to be bought with a change of trains on the Valga / Valka border twin-town.
-
-- Riga-Valga schedules/tickets: **{{< extlink href="https://www.pv.lv/en/routes/?from=R%C4%ABga&stop_from=1&to=Valga&stop_to=460" title="LINK" >}}**
-- Valga-Tartu schedules/tickets: **{{< extlink href="https://elron.pilet.ee/en/otsing/Valga/Tartu" title="LINK" >}}**
+In addition to access by air, the city has an excellent structure for river transport. The Port of Belém connects with other destinations in the north of Brazil, such as Manaus, Santarém and Macapá.
+Those who want to visit Belém can also invest in boat trips, such as the famous crossing from Manaus to Belém, which passes through Santarém (gateway to Alter do Chão) and Marajó. It may not be a quick way to get there, but it is certainly a wonderful trip that is worth every minute and every view of this experience. There are several companies that carry out the route. We made the trip between Santarém and Belém with the Amazon Star ship. The same boat makes the trip from Manaus and Belém.
+Telephone contact: +55 (91) 98895-6563
 
 ---
 
-**Bus**
+#### Transport in the city
 
-1. From Tallinn
-   Bus trips from Tallinn are very frequent (every half an hour during rush hours, otherwise every hour during daytime) with a total trip time of about 2.5h. Most (but not all!) buses departing Tallinn central station (“Tallinna bussijaam”) for Tartu will stop at the airport (“Tallinna lennujaam”).
+**Public transport**  
+The city public transport is in the process of being improved with the creation of the BRT system (Bus Rapid Transit Belém) and therefore many streets are experiencing traffic changes.
+There are alternatives besides the bus, like cycle lanes, taxis or mobility services (such as Uber). To access the surrounding islands you need to take small boats (voadeiras) to cross the islands.
+Public transport in Belém
 
-- Tickets (for a particular day and time) can be searched and bought via **{{< extlink href="https://www.tpilet.ee/en/" title="TPilet" >}}** website.
-  We suggest buying the tickets beforehand (they need to be bought for a specific trip) - there might not always be a place when buying the ticket on the bus.
+For those who don't give up using public transport, it's worth looking for the best routes and keeping track of the bus times using mobility apps such as:
+Mobile application: moovitapp
+You can check the bus routing here: <https://semob.belem.pa.gov.br/linhas/>
 
-2. From Riga
-   The bus option is also scarce but faster (5h) than train: currently there are 2 direct connections available via **{{< extlink href="https://luxexpress.eu/" title="Lux Express" >}}**.
-   We suggest buying tickets beforehand (they need to be bought for a specific trip) - there might not always be a place when buying the ticket on the bus.
+**Public transport prices**  
+According to the decree No. 103788 OF 03/25/2022 of the municipality of Belém: 
+The value of the fare for collective transport by bus, in the Municipality of Belém, is readjusted to R$ 4.00 (four reais), and the half fare is fixed at R$ 2.00 (two reais).
+The value of the fare for public transport by bus on the Belém-Mosqueiro/Mosqueiro-Belém route is readjusted to R$ 6.40 (six reais and forty cents), and the half fare is fixed at R$ 3.20 ( three reais and twenty cents).
+The value of the tariff for collective water transport on the Belém-Cotijuba/Cotijuba-Belém route, from Monday to Friday, is readjusted to R$ 4.00 (four reais), with the half fare being fixed at R$ 2 .00 (two reais), and on Saturdays, Sundays and holidays, for R$ 8.00 (eight reais), and the half fare is fixed at R$ 4.00 (four reais).
+The value of the transport tariff by selective minibus is readjusted to R$ 6.40 (six reais and forty cents).
+The value of the supplementary transport fee in the District of Mosqueiro is readjusted to R$ 4.00 (four reais) and the half fare is fixed at R$ 2.00 (two reais).
+
+**Public transport is paid in cash.**
 
 ---
 
-**Bicycle / hiking / motorcycle / car**
+**Private transport service in Belém**  
+The distances to be traveled between the main tourist spots are not great and the cost, especially if you are with more people, will be very low when using apps like Uber, Cabify and 99. For very close attractions, the best solution will still be a good walk. 
+It is worth, however, staying connected while strolling through the streets of Belém.
 
-The road is an adventure - you make your own schedule. There are no motorways in Estonia, only a few of the main highways have dual carriageways in parts. Estonia has right-hand traffic and an extensive road system, the quality of which varies. The speed limit on the highways is 90 km/h and 50 km/h in urban areas unless specified otherwise. While driving in Estonia, passengers are expected to wear seat belts and lights must be switched on at all times. Estonian laws against driving under the influence of alcohol are strict and follow a zero tolerance policy.
+Mobile applications: [Uber](https://www.uber.com/global/pt-br/cities/belem/), [Cabify](https://play.google.com/store/apps/details?id=com.cabify.rider), [TAXI 99](https://play.google.com/store/apps/details?id=com.taxis99)
+
+---
+
+**Bike path in Belém**  
+You have the opportunity to ride a bike around the city and enjoy the landscapes: [Bicycle network map](https://semob.belem.pa.gov.br/wp-content/uploads/2021/03/Mapa_Rede_Cicloviaria_Realistico-2019.pdf)
