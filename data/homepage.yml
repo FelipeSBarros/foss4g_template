@@ -19,14 +19,14 @@ banner:
 about:
   enable : true
   title : "About FOSS4G"
-  image : "images/speakers/featured-speaker.png"
-  content : "FOSS4G brings together developers, users, decision-makers and observers from a broad spectrum of organizations and fields of operation."
+  image : "images/proposta_logo_sticker.png"
+  content : "FOSS4G brings together developers, users, decision-makers and observers from a broad spectrum of organizations and fields of operation.<br> <br> {{< youtube VTou906-Kj8 >}}"
   button_solid:
     enable : false
     label : "Buy ticket"
     link : "pricing/"
   button_outline:
-    enable : true
+    enable : false
     label : "Read more"
     link : "about/"
 
@@ -261,8 +261,7 @@ call_to_action:
 sponsors:
   enable : true
   title : "Our partners, supporters, and sponsors"
-  content : "FOSS4G Europe 2024 is made possible thanks to the invaluable help
-  from the following organizations"
+  content : "Sponsors are the pillar that drives the FOSS4G conference. Join us to be forcibly behind geospatial innovation and stand out as an essential partner in this technological journey. Your support is key to making this path possible."
   button:
     enable : false
     label : "Become a sponsor"
@@ -274,6 +273,12 @@ sponsors:
     - name : "OSGeo"
       logo : "images/sponsors/OSGeo_logo.png"
       link : "https://www.osgeo.org/"
+    - name : "Geolibres"
+      logo : "images/geolibres.png"
+      link : "https://geolibres.org.ar/"
+    - name : "OSGeo Local Chapter Brasi"
+      logo : "images/OSGeoBrasil.png"
+      link : "https://wiki.osgeo.org/wiki/Brasil"
 
 #  - name : "Organizing partners"
 #    sponsor_item:

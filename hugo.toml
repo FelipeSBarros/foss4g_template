@@ -231,7 +231,7 @@ weight = 6
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_footer = "images/logo.png"
+logo_footer = "images/proposta_logo_horizontal_black_bg.png"
 logo_width = "100px"
 # Meta data
 description = "The FOSS4G 2024 conference is taking place 2-8 December in the beautiful city of Belém, Brasil."
@@ -280,6 +280,11 @@ enable = true
 expire_days = 2
 
 ############################# social site ########################
+[[params.social]]
+title = "instagram"
+icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.instagram.com/foss4g"
+
 [[params.social]]
 title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
