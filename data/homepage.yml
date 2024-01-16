@@ -19,8 +19,8 @@ banner:
 about:
   enable : true
   title : "About FOSS4G"
-  image : "images/speakers/featured-speaker.png"
-  content : "FOSS4G brings together developers, users, decision-makers and observers from a broad spectrum of organizations and fields of operation."
+  image : "images/proposta_logo_sticker.png"
+  content : "FOSS4G brings together developers, users, decision-makers and observers from a broad spectrum of organizations and fields of operation.<br> <br> {{< youtube VTou906-Kj8 >}}"
   button_solid:
     enable : false
     label : "Buy ticket"
