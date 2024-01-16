@@ -231,7 +231,7 @@ weight = 6
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_footer = "images/logo.png"
+logo_footer = "images/proposta_logo_horizontal_black_bg.png"
 logo_width = "100px"
 # Meta data
 description = "The FOSS4G 2024 conference is taking place 2-8 December in the beautiful city of Belém, Brasil."
