@@ -269,8 +269,8 @@ gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqO
 map_latitude = "-1.42168"
 map_longitude = "-48.45677"
 map_marker = "images/marker.png"
-name = "Hangar - Convenções & Feiras da Amazônia, Belém, Brasil."
-location = "Av. Dr. Freitas, s/n - Marco, Belém - PA, 66613-902, Brasil"
+name = "Hangar - Convention Center, Belem, PA, Brazil."
+location = "Dr. Freitas Avenue - Marco, Belem - PA, 66613-902, Brazil"
 email = "foss4g2024@gmail.com "
 link = "https://hangarpa.com.br/"
 
