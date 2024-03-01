@@ -239,7 +239,7 @@ author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "This is a licensed copy allixender [at] gmail.com for free use in Osgeo projects and events"
 
 # Preloader
 [params.preloader]
