@@ -116,115 +116,148 @@ name = "About"
 url = "about/"
 weight = 2
 
+    [[menu.main]]
+    parent = "About"
+    name = "Organizing committee"
+    url = "team/"
+    weight = 1
+
+    [[menu.main]]
+    parent = "About"
+    name = "FAQ"
+    url = "faq/"
+    weight = 2
+
+    [[menu.main]]
+    parent = "About"
+    name = "Branding"
+    url = "branding/"
+    weight = 3
+
+    [[menu.main]]
+    parent = "About"
+    name = "Code of Conduct"
+    url = "coc/"
+    weight = 4
+
+    [[menu.main]]
+    parent = "About"
+    name = "Diversity and inclusion"
+    url = "diversity/"
+    weight = 5
+
 [[menu.main]]
-name = "Call for papers"
-url = "call-for-papers/"
-weight = 3
+name = "Regstration"
+url = "Regstration/"
+weight = 5
+
+[[menu.main]]
+name = "Schedule"
+url = "Schedule/"
+weight = 5
+
+    [[menu.main]]
+    parent = "Schedule"
+    name = "Keynotes"
+    url = "Keynotes/"
+    weight = 1
+
+    [[menu.main]]
+    parent = "Schedule"
+    name = "B2B"
+    url = "B2B/"
+    weight = 2
+
+[[menu.main]]
+name = "Sponsors"
+url = "sponsors/"
+weight = 6
+
+[[menu.main]]
+name = "Attending"
+url = "Attending/"
+weight = 7
 hasChildren = true
 
- [[menu.main]]
- name = "Registration"
- url = "registration/"
- weight = 4
-
-  [[menu.main]]
- name = "Sponsors"
- url = "sponsors/"
- weight = 5
-
-  [[menu.main]]
-  parent = "Sponsors"
-  name = "Call for sponsors"
-  url = "call-for-sponsors"
-
 # [[menu.main]]
-# name = "Blog"
-# url = "blog/"
-# weight = 5
-
- [[menu.main]]
- weight = 6
- name = "Venue"
- hasChildren = true
-
-  [[menu.main]]
-  parent = "Call for papers"
-  name = "Workshops"
-  url = "cfp-workshops"
-
-  [[menu.main]]
-  parent = "Call for papers"
-  name = "General program"
-  url = "cfp-general-program"
-
-  [[menu.main]]
-  parent = "Call for papers"
-  name = "Academic program"
-  url = "cfp-academic-program"
-
-  [[menu.main]]
-  parent = "Venue"
-  name = "Accommodation"
-  url = "accommodation/"
-
-  [[menu.main]]
-  parent = "About"
-  name = "FAQ"
-  url = "faq/"
-  weight = 2
-
-  [[menu.main]]
-  parent = "About"
-  name = "Important dates"
-  url = "important-dates/"
-  weight = 1
-
-  [[menu.main]]
-  parent = "About"
-  name = "Code of Conduct"
-  url = "coc/"
-  weight = 2
-
-  [[menu.main]]
-  parent = "About"
-  name = "Organizing committee"
-  url = "team/"
-  weight = 3
-
-  [[menu.main]]
-  parent = "Venue"
-  name = "Getting to Belém"
-  url = "getting-to-belem/"
-
-  [[menu.main]]
-  parent = "Venue"
-  name = "Attendee guidelines"
-  url = "attendee-guidelines/"
-
-  [[menu.main]]
-  parent = "Venue"
-  name = "About Belém"
-  url = "about-belem/"
-
+# name = "Registration"
+# url = "registration/"
+# weight = 4
+#
+#
 #  [[menu.main]]
-#  parent = "Pages"
-#  name = "Pricing"
-#  url = "pricing/"
-
+#  parent = "Sponsors"
+#  name = "Call for sponsors"
+#  url = "call-for-sponsors"
+#
+#[[menu.main]]
+#name = "Schedule"
+#url = "Schedule/"
+#weight = 5
+#
+# [[menu.main]]
+# weight = 6
+# name = "Venue"
+# hasChildren = true
+#
 #  [[menu.main]]
-#  parent = "Pages"
-#  name = "Schedule"
-#  url = "schedule/"
-
+#  parent = "Call for papers"
+#  name = "Workshops"
+#  url = "cfp-workshops"
+#
 #  [[menu.main]]
-#  parent = "Pages"
-#  name = "Testimonial"
-#  url = "testimonial/"
-
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 6
+#  parent = "Call for papers"
+#  name = "General program"
+#  url = "cfp-general-program"
+#
+#  [[menu.main]]
+#  parent = "Call for papers"
+#  name = "Academic program"
+#  url = "cfp-academic-program"
+#
+#  [[menu.main]]
+#  parent = "Venue"
+#  name = "Accommodation"
+#  url = "accommodation/"
+#
+#
+#
+#
+#
+#  [[menu.main]]
+#  parent = "Venue"
+#  name = "Getting to Belém"
+#  url = "getting-to-belem/"
+#
+#  [[menu.main]]
+#  parent = "Venue"
+#  name = "Attendee guidelines"
+#  url = "attendee-guidelines/"
+#
+#  [[menu.main]]
+#  parent = "Venue"
+#  name = "About Belém"
+#  url = "about-belem/"
+#
+##  [[menu.main]]
+##  parent = "Pages"
+##  name = "Pricing"
+##  url = "pricing/"
+#
+##  [[menu.main]]
+##  parent = "Pages"
+##  name = "Schedule"
+##  url = "schedule/"
+#
+##  [[menu.main]]
+##  parent = "Pages"
+##  name = "Testimonial"
+##  url = "testimonial/"
+#
+#[[menu.main]]
+#name = "Contact"
+#url = "contact/"
+#weight = 6
 
 
 
