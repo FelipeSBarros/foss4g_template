@@ -136,8 +136,8 @@ weight = 2
 
     [[menu.main]]
     parent = "About"
-    name = "Code of Conduct"
-    url = "coc/"
+    name = "Attendee Guidelines"
+    url = "attendee-guidelines/"
     weight = 4
 
     [[menu.main]]
