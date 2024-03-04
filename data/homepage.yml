@@ -322,3 +322,14 @@ sponsors:
 #    - name : "sponsor"
 #      logo : "images/sponsors/gl-spon-one.png"
 #      link : "#"
+
+############### Call to action ############
+call_to_action:
+  enable : true
+  title : "Read more"
+  image : ""
+  content : ""
+  button:
+    enable : true
+    label : "About"
+    link : "about"
