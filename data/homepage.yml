@@ -325,7 +325,7 @@ sponsors:
 
 ############### Call to action ############
 call_to_action:
-  enable : true
+  enable : false
   title : "Read more"
   image : ""
   content : ""
