@@ -282,13 +282,13 @@ sponsors:
 
 #  - name : "Organizing partners"
 #    sponsor_item:
-#    - name : "University of Tartu, Landscape Geoinformatics Lab"
+#    - name : "University of T-artu, Landscape Geoinformatics Lab"
 #      logo : "images/sponsors/landscape_geo_logo.png"
 #      link : "https://landscape-geoinformatics.ut.ee/"
 #    - name : "Estonian Geoinformatics Society"
 #      logo : "images/sponsors/estgis-logo.png"
 #      link : "https://estgis.ee/en/"
-#    - name : "University of Tartu"
+#    - name : "University of T-artu"
 #      logo : "images/sponsors/ut-logo.png"
 #      link : "#"
 #  - name : "Platinum Sponsors"

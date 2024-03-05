@@ -33,19 +33,9 @@ type: "speaker"
    {{<
         figure
         src="../images/sponsors/landscape_geo_logo.png"
-        alttext="University of Tartu Landscape Geoinformatics Lab"
+        alttext="IFPA Castanhal Campus"
         height="90"
-        link="https://landscape-geoinformatics.ut.ee/"
-        target="blank"
-        rel="noopener noreferrer"
-        class="partner-logo"
-    >}}
-    {{<
-        figure
-        src="https://estgis.ee/wp-content/themes/estgis/theme/images/header-logo.png"
-        alttext="Estonian Geoinformatics Society"
-        height="90"
-        link="https://estgis.ee/en"
+        link="https://campuscastanhal.ufpa.br/"
         target="blank"
         rel="noopener noreferrer"
         class="partner-logo"

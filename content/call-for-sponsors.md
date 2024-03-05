@@ -3,8 +3,8 @@ title: "Call for sponsors"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2020-11-05T15:40:24+06:00
 description: "We are honoured to invite you to take this opportunity to be a financial partner
-for the FOSS4G Europe conference in Tartu, Estonia in 2024. By sponsoring
-FOSS4GE 2024, You are extending your support to the whole open source geospatial
+for the FOSS4G 2024 conference in Belém, Brazil. By sponsoring
+the conference, You are extending your support to the whole open source geospatial
 community"
 draft: false
 ---
@@ -19,8 +19,8 @@ streaming of all presentations a reality in addition to recorded material which
 will later be published on the OSGeo YouTube channel and TIB-AV portal.
 
 We are honoured to invite you to take this opportunity to be a financial partner
-for the FOSS4G Europe conference in Tartu, Estonia in 2024. By sponsoring
-FOSS4GE 2024, You are extending your support to the whole open source geospatial
+for the FOSS4G conference in Belém, Brazil, in 2024. By sponsoring
+FOSS4G 2024, You are extending your support to the whole open source geospatial
 community, a contribution that is essential in keeping this valuable community
 vibrant. In return this offers You the possibility to network and showcase
 Your work and solutions to future customers or partners.
