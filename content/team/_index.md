@@ -6,7 +6,6 @@ description : "Meet the LOC team behind the organizational matters of FOSS4G Eur
 draft : false
 type: "speaker"
 ---
-
 <style>
   .partner-logo img {
     padding: 10px 20px 10px 20px;
@@ -29,23 +28,14 @@ type: "speaker"
     class="partner-logo" >}}
 
 ##### Organizational partners
+
 <center>
    {{<
         figure
         src="../images/sponsors/landscape_geo_logo.png"
-        alttext="University of Tartu Landscape Geoinformatics Lab"
+        alttext="IFPA Castanhal Campus"
         height="90"
-        link="https://landscape-geoinformatics.ut.ee/"
-        target="blank"
-        rel="noopener noreferrer"
-        class="partner-logo"
-    >}}
-    {{<
-        figure
-        src="https://estgis.ee/wp-content/themes/estgis/theme/images/header-logo.png"
-        alttext="Estonian Geoinformatics Society"
-        height="90"
-        link="https://estgis.ee/en"
+        link="https://castanhal.ifpa.edu.br/"
         target="blank"
         rel="noopener noreferrer"
         class="partner-logo"
@@ -56,11 +46,7 @@ type: "speaker"
 ## Meet the team
 
 With organizational support from the
-<u>[Estonian Geoinformatics Society](https://estgis.ee/en)</u>
-and <u>[University of Tartu](https://ut.ee/en)</u>
-<u>[Landscape Geoinformatics Lab](https://landscape-geoinformatics.ut.ee/)</u>
-the Local Organizing Committee (LOC) is a pan-European group of FOSS4G
-enthusiasts and advocates. Who are we? Come and meet us.
+`<u>`[Federal Institute of Pará](https://www.ifpa.edu.br/)`</u>`
 
 <center>
     <a href="../program-committee/"
