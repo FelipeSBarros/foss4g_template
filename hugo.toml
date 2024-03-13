@@ -179,6 +179,18 @@ url = "Attending/"
 weight = 7
 hasChildren = true
 
+    [[menu.main]]
+    parent = "Attending"
+    name = "Getting to Belém"
+    url = "getting-to-belem/"
+    weight = 1
+
+    [[menu.main]]
+    parent = "Attending"
+    name = "Guided Tours"
+    url = "guided-tours/"
+    weight = 2
+
 # [[menu.main]]
 # name = "Registration"
 # url = "registration/"

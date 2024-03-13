@@ -21,7 +21,7 @@ Yes. Our main goal is to foster FOSS4G, and that means also making all the prese
 {{</ faq >}}
 
 {{< faq "Have you considered an hybrid online-face to face event?" >}}
-At this point, we aim to have a normal, in-person event.  
+At this point, we aim to have a conventional in-person event.  
 {{</ faq >}}
 
 {{< faq "I am not dedicated to geomatics, can I attend the conference?" >}}
